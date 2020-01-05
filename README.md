@@ -1,4 +1,5 @@
-#SmellsTasty
-#Simple Recipes Android Application
+SmellsTasty
+
+Simple Recipes Android Application
 
 
